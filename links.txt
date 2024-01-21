@@ -1,0 +1,61 @@
+Лекции
+-----------------------------------------------------
+-----------------------------------------------------
+Обзор AI (лекция 0)
+https://www.youtube.com/watch?v=y7bf0Kk46UU
+-----------------------------------------------------
+Введение (лекция 1)
+https://www.youtube.com/watch?v=LcvKd42DGQU
+-----------------------------------------------------
+Линейные модели, предобработка, нормализация и т.д. (лекция 2)
+https://www.youtube.com/watch?v=khdaLtu9i-s
+https://www.youtube.com/watch?v=HV4Bm8UJwIs
+https://www.youtube.com/watch?v=twdZBko9vH4
+https://www.youtube.com/watch?v=N5_VAN1nhm8
+https://www.youtube.com/watch?v=L_o8v5A23XA
+https://www.youtube.com/watch?v=tOiwAyilk3I
+-----------------------------------------------------
+Решающие деревья и композиции алгоритмов (лекция 3)
+https://www.youtube.com/watch?v=MJwAoWFTMWw
+https://www.youtube.com/watch?v=vqF8wrWjR5s
+https://www.youtube.com/watch?v=JElfEE1OrSU
+-----------------------------------------------------
+Введение в нейронные сети (лекция 4)
+https://www.youtube.com/watch?v=ZfXpX8tMg-w
+https://www.youtube.com/watch?v=-yiq1DRX9K0
+https://www.youtube.com/watch?v=O0nGKKFyYT4
+https://www.youtube.com/watch?v=3F7rydcAa0w
+-----------------------------------------------------
+Свёрточные нейронные сети (лекция 5)
+https://www.youtube.com/watch?v=Xq76hQHCkvQ
+https://www.youtube.com/watch?v=HpKGv-kYurk
+https://www.youtube.com/watch?v=IxLuPHtZBTY
+https://www.youtube.com/watch?v=3IPRcBIsgNA
+-----------------------------------------------------
+
+
+Семинары
+-----------------------------------------------------
+-----------------------------------------------------
+Введение (семинар 1)
+https://www.youtube.com/watch?v=YMtsgx8oB24
+-----------------------------------------------------
+Линейные модели (семинар 2)
+https://www.youtube.com/watch?v=5VOp5xmBvds
+https://www.youtube.com/watch?v=56YdhX0xj3k
+-----------------------------------------------------
+Model selection (семинар 3)
+https://www.youtube.com/watch?v=B03CrtpYDi4
+-----------------------------------------------------
+Введение в PyTorch (семинар 4)
+https://www.youtube.com/watch?v=DU3-mc8qFxA
+https://www.youtube.com/watch?v=1aOp0pOvczg
+-----------------------------------------------------
+Свёртка, пулинг, модули (семинар 5)
+https://www.youtube.com/watch?v=6TMeFrRCJ_0
+https://www.youtube.com/watch?v=0R65rYFZe6U
+https://www.youtube.com/watch?v=xgVr9vISm8w
+-----------------------------------------------------
+
+
+
